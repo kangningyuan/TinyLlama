@@ -1,0 +1,266 @@
+Task one：（包含日常、童话、悬疑、科幻等元素的开头，同时在最后一个prompt特意留空）
+prompts = [
+    "In a forgotten library,",
+    "The key glowed with a faint blue light,",
+    "She received a letter from her future self,",
+    "The last tree on Earth began to whisper,",
+    "He woke up with the ability to see memories,",
+    "The clock struck thirteen for the first time,",
+    "Their shadows moved with a mind of their own,",
+    "The recipe called for a teaspoon of starlight,",
+    "The train platform was invisible to everyone else,",
+    ""
+]
+
+temperature = 0.3的参数下生成的故事如下：
+
+In a forgotten library,omged a book with a very strange name. It was called "The Wishish". Everyone in the library was very confused.
+The librarian asked, "What did you learn from this book?"
+Nurseaby smiled and said, "It's a secret. You must be careful not to tell anyone."
+Nurseoman, who was a bit ignorant, asked, "What did you learn?"
+The librarian replied, "You learned that it's important to be careful and not to tell anyone what you know."
+Nursean nodded and said, "I will remember to be careful."
+The librarian smiled and said, "Good. Now, let's find a book for you to read."
+Nursean smiled and said, "Yes, let's find a book for me."
+The librarian smiled and said, "That's a great idea!"
+Nursean smiled and said, "Thank you!"
+
+The key glowed with a faint blue light,te it up to a small, icy chill. It was a magical key, and it had the power to unlock anything.
+The key unlocked a secret door, and it led to a magical garden. The garden was filled with bright, colourful flowers and a beautiful pond.
+The key unlocked a door, and it opened up to reveal a secret path. The path led to a magical kingdom, full of magical creatures and creatures.
+The key unlocked a door, and it led to a beautiful castle. The castle was made of ice and snow, and it was very icy.
+The key unlocked the door, and it unlocked a door that led to a magical kingdom. The magical kingdom was full of adventure and joy.
+The key unlocked the door to a magical world, and it was the key to unlock the world of magical creatures.
+
+She received a letter from her future self,. She was so excited and couldn't wait to read it. She opened the letter and read it out loud.
+"I'm going to be a big girl now," she said.
+Her mom smiled and said, "That's wonderful! I'm sure you'll do great."
+The little girl was so happy that she wanted to do something special. She asked her mom, "What can I do?"
+Her mom said, "Why don't you go outside and play with your friends?"
+The little girl was so excited and ran outside to play. She had so much fun with her friends and was so proud of herself for being able to do something special.
+The little girl was so happy that she had received the letter and was able to do something special. She was so proud of herself and was so happy that she had been able to do something so special.
+
+The last tree on Earth began to whisper,. It was a very special tree, because it was the only one of its kind.
+One day, a little boy named Jack was walking by the tree. He stopped and looked at it, wondering what it was saying.
+"Hello," he said.
+The tree whispered back, "I am the only tree in this world. I am very special and I am very important."
+Jack was amazed. He asked the tree, "What do you mean?"
+The tree replied, "I am here to help people. I can give them things that are very important."
+Jack smiled and said, "That's so cool!"
+The tree whispered, "Yes, it is. I am here to help people and make them happy."
+Jack thanked the tree and said goodbye. He was so happy to have met such a special tree.
+
+He woke up with the ability to see memories,'s. He was so excited that he couldn't help but smile. He quickly got dressed and went outside.
+He saw a big tree and he decided to climb it. He was so proud of himself when he reached the top. He could see the whole town from up there.
+He looked around and saw a lot of people walking by. He waved to them and they waved back. He felt so happy that he wanted to stay there forever.
+He looked around and saw a little girl. She was only three years old. He asked her if she wanted to play. She said yes and they started to play tag.
+They ran around the tree and laughed. They had so much fun that they didn't want to leave. But eventually, it was time to go home.
+He said goodbye to the little girl and waved as he walked away. He was so proud of himself for making a new friend.
+
+The clock struck thirteen for the first time,'s. It was a very special clock, and it was so impressive.
+One day, a 3 year old boy named Jack was walking in the park with his mom. He saw the clock and was amazed. He asked his mom, "What is that?"
+His mom smiled and said, "That is a clock. It tells us what time it is."
+Jack was so excited. He wanted to learn more about the clock. He asked his mom, "Can I learn more about it?"
+His mom said, "Yes, of course. Let's go to the library and find some books about it."
+So they went to the library and Jack found a book about the clock. He read it and learned a lot. He was so impressed with the clock.
+Jack was so happy that he had learned about the clock. He couldn't wait to tell his friends about it.
+
+Their shadows moved with a mind of their own,'s. They were always looking for ways to make their shadows move. One day, they saw a big, red ball in the park. They ran over to it and started to play.
+Suddenly, a big, scary man came out of the bushes. He was very angry and shouted at them. He said they were not allowed to play with the ball. He was very rude.
+The two children were scared and ran away. They ran until they were far away from the park. They were safe, but they were sad. They had been so excited to play with the big, red ball.
+The next day, the two children went back to the park. They saw the big, red ball again. But this time, the man was there. He was still angry. He shouted at them again and again.
+The two children were scared and ran away. They never went back to the park again. They were too scared of the man. They never got to play with the big, red ball.
+
+The recipe called for a teaspoon of starlight, a spoonful of sugar, and a bowl of flour. Mommy was baking a cake and the kitchen was getting very messy.
+Mommy said, "Let's make a special cake with a teaspoon of sugar."
+The little girl was excited and said, "Yay! I love cake!"
+Mommy smiled and said, "Yes, but first we need to mix the ingredients together."
+The little girl helped Mommy mix the ingredients and then Mommy put the cake in the oven.
+When the cake was done, Mommy took it out of the oven and said, "Let's put the cake on the table and let it cool."
+The little girl was so excited that she ran to the table and put the cake on the table.
+Mommy said, "Now we just need to put the cake in the oven and let it cool down."
+The little girl watched as Mommy put the cake in the oven. After a few minutes, the cake was ready.
+Mommy took the cake out of the oven and said, "Let's put the cake on the table and let it cool down."
+The little girl helped Mommy put the cake on the table and then they both enjoyed a delicious cake.
+
+The train platform was invisible to everyone else,. It was a special train that was very rare. Everyone was excited to see it.
+The train conductor said, "We must go fast!" Everyone cheered and the train started to move.
+The train conductor said, "We must go faster!" He started to speed up the tracks.
+The train conductor said, "We must go faster!" Everyone cheered and the train kept going faster and faster.
+The train conductor said, "We are almost there!" Everyone cheered and the train conductor said, "We are almost there!"
+Finally, the train arrived at its destination. Everyone was so happy and excited. They had been on a rare train ride!
+
+was a little girl who loved to play with her toys. One day, she was playing with her toy car and it suddenly stopped moving. She looked at it and saw that it was broken. She started to cry and said, "My car is broken!"
+Her mom came over and said, "Don't worry, we can fix it." She took the car and started to fix it. After a few minutes, the car was as good as new.
+Lily was so happy that she hugged her mom and said, "Thank you for fixing my car!" Her mom smiled and said, "You're welcome, sweetheart."
+Lily was so excited to play with her car again. She said, "Let's play together!" Her mom said, "Sure, let's play together!" They played together for a long time and had lots of fun.
+
+
+
+
+temperature=0.6参数下生成的故事：
+
+In a forgotten library,Mommy was very busy. She had to go to the library and she was looking for books.
+The librarian was very helpful. She said, "I have a special book for you. It is a surprise!"
+The librarian handed the book to the librarian. The librarian smiled and said, "Thank you! I will deliver this book to your home."
+The librarian gave the book to the librarian and said, "You are very helpful. I hope you enjoy it!"
+The librarian was happy. She said, "Thank you again! I'm sure your family will love it!"
+The librarian gave the book back to the librarian and said, "Have a great day!"
+The librarian smiled and waved goodbye. She was very happy that she was able to deliver the book to her family.
+
+The key glowed with a faint blue light,'s eyes sparkling. It was a beautiful thing and everyone wanted it.
+"Where did it come from?" asked a three year old girl, who was walking by.
+"It's a special key," said the girl.
+The girl was excited and wanted to find out what the key could do. She tried the key in every door she could find, but nothing seemed to work.
+Finally, the girl found the key in a small box at the end of the street. She was so happy and couldn't believe her luck.
+The girl took the key home and showed it to her parents. They were amazed and said it was a very special key.
+The girl was so proud of her key and kept it safe. Every day she would look at it and smile. She had found something special and was so happy.
+
+She received a letter from her future self,. It said that she would have to work hard to earn her own money. She was so excited and started working really hard.
+She worked every day, but it was still not enough. She was getting very tired and her dreams were becoming weak.
+One day, she decided to try something new. She went to the store and bought some special money. She was so happy and excited to have enough money to buy the money.
+But when she got home, she realized the money was not enough. She was so sad and angry. She tried to think of a way to get more money, but she couldn't. She was so upset and disappointed.
+The end.
+
+The last tree on Earth began to whisper,. The tree was so big and tall that it could touch the sky. All the other trees were so small and scared of the big tree, but it was also very friendly.
+The tree whispered, "Hello, my friend!"
+The other trees were so surprised. They had never heard a tree whisper before.
+The tree said, "I'm glad you could hear me. I'm so happy to be here."
+The other trees were so excited to have a new friend. They all started to whisper to each other too.
+The tree and the other trees whispered and whispered until the sun went down. They all felt so happy to be together. They were all so glad to have a new friend.
+
+He woke up with the ability to see memories,ia and her mom. He was so excited to explore the world, he couldn't wait to find out what the world had to offer.
+His mom said, "Let's go and explore the park. It's a beautiful day!"
+So, off they went. When they arrived at the park, he was amazed. There were so many trees and flowers, and a playground. He couldn't wait to explore.
+His mom said, "Let's go and explore the park. I'll show you something special."
+They walked around the park and his mom showed him a big tree. She said, "This tree is special because it's very old. It's the only tree around here. It's the only tree that can help us remember this day."
+He looked around and saw the sun setting in the sky. He was amazed. He said, "Wow! It's so beautiful!"
+His mom smiled and said, "Yes, it is. Now, let's go home. We can come back again tomorrow and explore the park some more."
+He was so excited. He couldn't wait to come back the next day and explore the beautiful park.
+
+The clock struck thirteen for the first time,'s birthday. The young boy was so excited and ran to his mom and dad to tell them. His mom and dad smiled and said, "Happy birthday!" 
+The boy was so excited that he wanted to tell everyone the good news. He ran around the house and shouted, "I'm going to the park!" 
+The mom and dad laughed and said, "That's great, but remember to be careful!" 
+The boy smiled and ran off to the park. He was so happy to be able to tell his friends all about it. He ran up to his friend and said, "Happy birthday!" His friend smiled and said, "Thanks! What's your secret?" 
+The boy smiled and said, "My mom said I can't tell you yet. I'm going to tell everyone about it." His friend said, "That sounds great! I'll come over and we can tell it together." 
+The boy was so excited that he ran back to his parents and said, "Mom, Dad, Dad, I have a secret to tell you!" His parents smiled and said, "That's wonderful, honey. We'll be so proud of you!" 
+The boy was so excited that he ran off to tell his friends. He told them all about the surprise and all of the fun things he could do at the park. Every
+
+Their shadows moved with a mind of their own, and her own. She was a very curious girl, always asking questions and exploring. One day, she asked her mom what a university was. Her mom smiled and said it was a special place where grown-ups go to learn.
+Mary was very excited. She wanted to go to university and learn lots of things. She asked her mom if she could go, and her mom said yes.
+Mary was so happy, she couldn't wait to go. She couldn't wait to learn all the new things that people do at university.
+The next day, Mary's mom took her to the university. Mary was so excited she couldn't contain her joy. She was so eager to learn.
+At the university, Mary was amazed. She saw so many people, learning new things and having fun. She was so excited she couldn't contain her joy.
+Mary's mom was so proud of her daughter. She had worked hard and was so eager to learn. She knew that with her hard work and determination, she could achieve anything.
+
+The recipe called for a teaspoon of starlight, one that was very special. It was a bright yellow one and it was very shiny.
+Mama said it was time to use it, but when she turned it on, it didn't work. Mama was very sad and she asked her little girl if she could fix it.
+The little girl thought for a moment, then said, "I know! I can use the teaspoon to make the starlight shine!"
+Mama was so surprised. She said, "That's a very brave idea! Let's try it."
+The little girl took the teaspoon and slowly turned it on. To her surprise, the teaspoon shone even brighter than before! Mama smiled and said, "You did it! You fixed the teaspoon!"
+The little girl was so proud and happy. She had done something brave and she had fixed the teaspoon all by herself.
+
+The train platform was invisible to everyone else,. The conductor had noticed the commotion and was trying to figure out why.
+"I think it's because I'm the first train conductor," the conductor said.
+The passengers were amazed. They had never heard of a train conductor before.
+The conductor then explained that he was an expert train conductor and he had been working hard to become the best train conductor ever.
+The passengers were so excited and thanked the conductor.
+But then, the conductor suddenly said something that made the passengers feel embarrassed.
+"I'm sorry," he said, "I'm too embarrassed to show the other passengers. I'm afraid I'm not very good enough."
+The passengers were disappointed but the conductor said, "It's okay. Everyone makes mistakes. We're still a great train conductor!"
+The passengers cheered and the conductor smiled. He was glad that he had been able to make the passengers feel better.
+
+na was walking in the park. She saw a big, tall tree and decided to climb it. She climbed higher and higher until she reached the top.
+Suddenly, a voice called out from below: "Sunny! Sunny!"
+Little Benny, a three year old girl, had been watching him climb. He was so proud of his little girl.
+Little Benny said: "You're so brave, Sunny! I'm so proud of you!"
+Sunny smiled and said: "Thank you! You're so kind. I'm so proud of you too!"
+Little Benny and Sunny watched the sun go down together. Benna waved goodbye to her and Benny waved back. They both knew that Sunny was a special friend to have.
+
+
+
+
+temperature=0.9参数下生成的故事：
+
+In a forgotten library,Mommy was sitting in the shelves. She was wearing a bright blue dress and looking very happy. She was reading a big book about animals. Suddenly, the shelf shook and the book fell to the floor! It made a loud noise and the book was now broken.
+Mommy looked at the broken book and smiled. She said, "Oh no! It's broken." She carefully picked up the book and put it back on the shelf. She shook the shelf and said, "Let's see if we can fix it."
+Mommy and Abigail worked together to fix the book. They taped the shelf back together and taped the broken pieces in place. When they were finished, they looked at the book and saw all the animals and smiled. 
+They read the book together and Abigail asked, "What is this?" Abigail said, "It's a story about a happy bird." 
+Mommy laughed and said, "Yes, it is. And it's good that we fixed it together." Abigail smiled and hugged her mommy. They both sat together and enjoyed the story about the happy bird.
+
+The key glowed with a faint blue light,a and her big brother Ben.
+Ben said, "Let's go on an adventure!"
+The two walked together, the key in Ben's hand and the glow of light in Ben's face.
+They came to a big tree with a mysterious sign on it. Ben said, "What does it say?"
+The key beeped and Ben said, "It says, 'Only if you use your power."
+Ben put the key into the lock and it opened a secret doorway. Inside the doorway was a bright, blue cage. Ben said, "Let's go inside."
+The key beeped again, and the door opened. Inside the cage was a giant blue bird with a bright yellow beak. Ben said, "It's beautiful."
+The bird flapped its wings and flew away. Ben said, "Come back, bird!" 
+The key beeped happily and the door opened. Ben and the key went outside and explored the world together.
+
+She received a letter from her future self,. She was so happy to receive a letter, but the letter didn't help her.
+"It's too hard," she said. "I don't understand what it means."
+Her mom saw her disappointment and said, "Let's read it together, ok?"
+The little girl nodded, so they sat down and read the letter. It was from her best friend, who was very selfish.
+The letter said, "Let's play together today."
+The little girl smiled. "Yes! That would be fun."
+They spent the afternoon playing, but eventually the little girl had to go to bed.
+The next morning, she ran to her mom and asked, "Can I have my letter back?"
+"Yes, you may," said her mom.
+The little girl was so excited, she ran to the mailbox and opened it. Inside, there was a big, white envelope.
+Her mom said, "This is for you."
+The little girl opened it, and inside was a letter from her friend. She was so happy and she laughed with joy.
+"Thank you so much," she said to her mom.
+Her mom smiled and said, "I knew you would like it."
+
+The last tree on Earth began to whisper,te. It had a huge horn. Everyone was scared of it, so it was a harmless thing to be scared of. 
+"Don't be scared, I'm just saying hello," said the horn.
+But the people on Earth were too scared to reply. They ran away in fear. 
+Soon, the horn saw what had happened and it was even bigger and harmless. But the horn was still scared.
+The horn spoke again, "Don't be scared. I'm just a harmless horn."
+The people on Earth heard the horn and were brave enough to come closer. They were no longer scared of the horn. 
+The horn smiled, "Let's be friends, okay?" 
+The people replied, "Yes, let's be friends!"
+And from that day on, the horn was no longer scared of the people on Earth. It was harmless and everyone was happy.
+
+He woke up with the ability to see memories,'s dream. He was excited to take a closer look at the calendar and take in all the special moments of his life. He jumped out of bed and ran to the calendar, eager to discover what it was about.
+When he arrived at the calendar he was very surprised to see a clear picture of himself on it. He couldn't believe it! He jumped up and down with joy and couldn't wait to explore the other pictures. 
+He wanted to see a different picture, so he started looking for the one he wanted to see. Suddenly he saw a picture of himself, but it wasn't the same. He noticed that there were a lot of different colours and shapes on the calendar. 
+He was amazed and shouted out loud. His mom came to the window and said, "What happened to you? I heard a loud crash!" 
+The little boy replied, "I saw a picture on the calendar and it was different than I thought. I didn't recognize it and it was funny!" His mom smiled and said, "Yes, that's the same picture, but it was just your imagination. Now, let's go explore and see what else we can find!"
+
+The clock struck thirteen for the first time,3. Little Billy had been feeling very scared but he knew the time was coming. He was starting to feel scared when his mom came in the room and said, “It’s time for bed, Billy.” Billy was still scared but he got ready for bed.
+As Billy snuggled into his blankets, he heard a loud ringing sound. He was too scared to get up. His mom came in and said, “It’s okay, it’s just the clock. It won’t strike us when we wake up.” Billy slowly peeked out of his blankets and saw the clock in the corner. He felt relieved.
+Billy’s mom smiled and said, “See, that wasn’t so scary, was it? The clock ticked to remind you of the day you were born.” Billy smiled and said, “Oh, it was scary!” 
+Billy’s mom hugged him and said, “Let’s go to bed now. Goodnight, Billy.” He happily crawled into bed, feeling safe and secure. Billy knew his mom was always looking out for him and would never let anything scare him.
+
+Their shadows moved with a mind of their own,'s ever-so-clean. They were playing outside, feeling the wind on their faces. 
+Suddenly, they heard a voice. It was their mom's voice. "Aha! We're home," she said.
+Tommy and Jane both rushed to the door. They were so excited to see the big, fluffy dog in the backyard. 
+"Mom, can we play with him?" asked Jimmy. 
+Mom laughed. "Sure, he looks like he wants to play," she said.
+The boys ran outside and started to pet the dog. He was so friendly and wagged his tail. 
+Jimmy and Lucy stopped and stared. "He's a bit nosy," said Jenna. 
+Mom nodded. "Let's give him a name," she said. 
+The boys thought for a moment, and then Mom said, "Let's call him Shadow." 
+The boys giggled and agreed. From then on, Shadow was their best friend.
+
+The recipe called for a teaspoon of starlight, who was always looking for help. This one was very popular, and she was always very happy to help out.
+One day, she went outside and found a little 3 year old boy. He was playing in his garden and he noticed the teaspoon, and he asked his dad if he could have it. His dad said yes and the little boy was very excited.
+The little boy was so happy he started to dance and jump around. He was so excited he started to laugh and smile. His dad laughed too, and they both joined in the fun.
+The little boy played with the teaspoon until night, and when it was time to go to bed, he thanked his dad for the special gift. From then on, the little boy would always look for the teaspoon, and every time, he would laugh and smile.
+
+The train platform was invisible to everyone else,! It was so hidden, nobody could see it!
+The train conductor looked around and noticed that there was a small girl standing at the center. She was wearing a yellow dress and had a big smile on her face.
+The conductor smiled and asked her, "Do you recognize me?" The girl nodded and pointed to the train.
+The conductor looked around and finally found the girl's mother. He pointed to the train and said, "Let's go!"
+The girl and her mother got on the train and the conductor took them to their destination. The girl was so excited to see all of the new things.
+At the end of the day, the girl said goodbye to the conductor and thanked him for recognizing her. The conductor smiled and waved as they drove away.
+
+'ly skipped around the garden. He was wearing his favorite red sweater that his mom had bought for him and it made him feel so warm and cosy.
+Momma said to him, "Let's take a walk together, please?"
+Darean smiled and nodded. They started walking around the garden and the two of them talked about all kinds of things.
+Momma said, "We should find a nice place to sit and rest. Let's go to the garden bench over there."
+Dareommie was so excited, he couldn't contain his joy. They got to the bench and Momma told him, "This bench is perfect for us. Let's stay here for a few minutes, okay?"
+DareBoo enjoyed the view from the bench and he started to skip. He looked around and saw the beautiful flowers and the little birds singing in the trees. After a few minutes, Momma said, "It's time to go. We should hurry back to the house, Dare."
+Dareomma was so happy and the two of them skipped back to the house together.
